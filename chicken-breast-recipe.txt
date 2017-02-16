@@ -1,0 +1,15 @@
+Tools:
+ - Sous vide setup (machine, tub, water)
+ - Vacuum sealer setup (machine, bags)
+
+Ingrediets
+ - Olive oil
+ - Chicken breast
+
+Instructions
+ - Preheat sous vide to 150 degrees F
+ - Add chicken breast to vacuum seal bag
+ - Add 1/2 tsp olive oil to vacuum seal bag
+ - Seal the bag
+ - Submerge bag in preheated water for 1 hour
+ - Done!
